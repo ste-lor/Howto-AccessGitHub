@@ -4,8 +4,9 @@ Quick description of how to access GitHub repositories in linux and windows.
 <br />
 
 **For Linux:**
+1) Make sure git is installed at your local machine.
 ````
-comming soon
+sudo apt install git
 ````
 
 <br />
