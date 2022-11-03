@@ -3,13 +3,31 @@ Quick description of how to access GitHub repositories in linux and windows.
 
 <br />
 
-**For Linux:**
-1) Make sure **git** is installed at your local machine.
+**For Linux:**<br />
+1. Make sure **git** is installed at your local machine.
 ````
 sudo apt install git
 ````
+
+2. Clone your repository at a location of your choice. In GitHub there exist different possibilties how to clone your repository: HTTPS, SSH, GitHub CLI. In this tutorial we will use HTTPS. <br /><br />
+    2.1 
+````
+sudo apt install git
+````
+
 <br />
-2) Clone 
+2. Clone your repository at a location of your choice. In GitHub there exist different possibilties how to clone your repository: HTTPS, SSH, GitHub CLI. In this tutorial we will use HTTPS.
+2.1) 
+
+
+1. Einkaufen gehen
+    - Kartoffeln
+    - Zwiebeln
+2. Kochen
+	1. Schnippeln
+	2. Braten
+3. Genießen
+
 
 <br />
 <br />
