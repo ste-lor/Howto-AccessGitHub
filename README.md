@@ -8,8 +8,9 @@ Quick description of how to access GitHub repositories in linux and windows.
 ````
 sudo apt install git
 ````
-
 <br />
+2) Clone 
+
 <br />
 <br />
 
