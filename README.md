@@ -10,11 +10,19 @@ sudo apt install git
 ````
 
 2. Clone your repository at a location of your choice. In GitHub there exist different possibilties how to clone your repository: HTTPS, SSH, GitHub CLI. In this tutorial we will use HTTPS. <br /><br />
-    2.1 
-````
-sudo apt install git
-````
+    2.1 Copy the HTTPS link of your repository
+    ![PIC1](https://user-images.githubusercontent.com/67844725/199689417-7be6d249-dbba-47a3-97ab-471e59faa830.png)
+    
+    2.2 Type in terminal (at location of your choice)
+	````
+	git clone "https://github.com/ste-lor/Test_Repository.git"
+	````
 
+3. GitHub asks **for each clone-, pull- and push-request username and passwort** (the required passwort here is the so called **acess token** which has to be generated first, a detailed description on how to create this token can be found here [GitHub Access Token](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)).<br />
+This can sometime be annoying. Thus, in order to **remeber your credentials, GitHub CLI** can be installed. A detailed installation description for Linux, Windows and Mac can be found here [GitHub CLI](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
+
+
+a nice tool offers If you're cloning GitHub repositories using HTTPS, we recommend you use GitHub CLI or Git Credential Manager (GCM) to remember your credentials.
 <br />
 2. Clone your repository at a location of your choice. In GitHub there exist different possibilties how to clone your repository: HTTPS, SSH, GitHub CLI. In this tutorial we will use HTTPS.
 2.1) 
